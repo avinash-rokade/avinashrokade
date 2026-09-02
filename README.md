@@ -19,7 +19,7 @@ I enjoy working on hardware-software integrated projects and learning new techno
 - Achieved a tested communication range of up to **1 km**.
 - Analyzed RSSI and communication behavior during testing.
 
-🔗 [View Project Repository]([https://github.com/avinashrokade/LoRa-Mesh-Network-Off-Grid-Communication])
+🔗 [View Project Repository](https://github.com/avinashrokade/LoRa-Mesh-Network-Off-Grid-Communication)
 
 ### ♻️ Automatic Dry and Wet Waste Segregation
 
