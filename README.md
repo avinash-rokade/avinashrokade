@@ -52,7 +52,7 @@ Published in **International Journal for Research in Applied Science & Engineeri
 
 ## 📫 Connect With Me
 
-🔗 [LinkedIn](www.linkedin.com/in/avinash-rokade-bb3067291)
+ 🔗 [LinkedIn](https://www.linkedin.com/in/avinash-rokade-bb3067291)
 
 ---
 
